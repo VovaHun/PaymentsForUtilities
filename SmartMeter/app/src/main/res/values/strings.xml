@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">PublicService26</string>
+
+    <string name="account_list">Accounts</string>
+    <string name="account_info">Account info</string>
+    <string name="registration">Registration</string>
+    <string name="select_company">Select company</string>
+    <string name="queries">Queries</string>
+
+    <string name="desc_logo">Logo</string>
+    <string name="desc_connection_icon">Connection Icon</string>
+    <string name="desc_search_icon">Search Icon</string>
+
+    <string name="register">Register</string>
+    <string name="sign_in">Sing in</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="password">Password</string>
+    <string name="password_confirm">Password confirm</string>
+    <string name="username">Username</string>
+    <string name="log_out">Log out</string>
+
+    <string name="name">Name</string>
+    <string name="last_name">Last name</string>
+    <string name="first_name">First name</string>
+    <string name="middle_name">Middle name</string>
+    <string name="gender">Gender</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="phone_number">Phone number</string>
+    <string name="phone_notifications">Phone notifications</string>
+    <string name="email">Email</string>
+    <string name="email_notifications">Email notifications</string>
+    <string name="comment">Comment</string>
+    <string name="consent_on_personal_data">Consent on personal data</string>
+    <string name="appeal">Appeal</string>
+
+    <string name="comment_add_account">Account number, comment</string>
+    <string name="my_queries">My queries</string>
+
+    <string name="using">Using</string>
+    <string name="not_using">Not using</string>
+
+    <string name="error_empty">Must not be empty</string>
+    <string name="error_password_confirm">Password mismatch</string>
+    <string name="error_email">Incorrect email</string>
+    <string name="error_phone">Incorrect phone</string>
+    <string name="error_consent">Check the consent</string>
+    <string name="error_load_failed">Failed to load data</string>
+    <string name="success_sent">Successfully sent</string>
+
+    <string name="pay_next_period">Pay in the next period</string>
+    <string name="account">Account</string>
+    <string name="object">Object</string>
+    <string name="debt">Debt</string>
+    <string name="services">Services</string>
+    <string name="coefficient">Coefficient</string>
+    <string name="sum">Sum</string>
+    <string name="retry">Retry</string>
+    <string name="tariff">Tariff</string>
+    <string name="calculation_type">Calculation type</string>
+    <string name="volume">Volume</string>
+
+    <string name="date_format" translatable="false">%1$td.%1$tm.%1$tY</string>
+    <string name="sum_format" translatable="false">%1$s \u20BD</string>
+    <string name="volume_format" translatable="false">%1$s %2$s</string>
+    <string name="devices_format">Devices (%1$d)</string>
+    <string name="appeal_mr_format">mr. %1$s</string>
+    <string name="appeal_common_format" translatable="false">%1$s %2$s</string>
+
+    <string name="accounts_not_found">No personal account data found</string>
+    <string name="add_account">Make a request to add a personal account</string>
+
+    <string name="devices">Devices</string>
+    <string name="send">Send</string>
+    <string name="current_indications">Current indications</string>
+    <string name="previous_indications">Previous Indications</string>
+    <string name="new_indications">New indications</string>
+</resources>

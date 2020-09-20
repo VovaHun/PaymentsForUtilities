@@ -1,0 +1,116 @@
+body {
+	background-color: #b3d4fc !important;
+}
+
+.InputForm {
+	background-color: #fff;
+	width: 500px;
+	height: auto;
+	margin: 100px auto;
+	border-radius: 8px;
+	padding: 10px;
+}
+
+.RegistrationOptions {
+    text-align: center;
+    font-size: 14pt;
+	width: 100%;
+}
+
+.RegOptionLeft {
+	width: auto;
+	display: inline-block;
+	padding-right: 5%;
+	text-align: right;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+
+.RegOptionRight {
+	width: auto;
+	display: inline-block;
+	padding: 5%;
+	text-align: left;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+}
+
+.RegOptionChosen {
+	text-decoration: underline;
+	color: #008CBA;
+}
+
+.RegOptionNotChosen {
+	text-decoration: underline;
+	color: black;
+}
+
+.ErrorsShift {
+	width: 100%;
+	height: auto;
+	margin: 10px;
+	color: red;
+}
+
+.InputDiv {
+	padding: 10px;
+}
+
+.InputStrong {
+	margin-right: 10px;
+	width: 100%;
+	height: 30px;
+}
+
+.InputField {
+	width: 95%;
+	height: 30px;
+}
+
+.InputButton {
+	width: auto;
+	height: 30px;
+	margin: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+	background-color: #008CBA;	
+	border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;    
+    cursor: pointer;
+}
+
+.InputHref {
+    color: #008CBA;
+	margin: 10px;
+	width: 100%;
+	height: 30px;
+}
+
+.MailSent {
+	background-color: #fff;
+	width: 850px;
+	height: auto;
+	margin: 100px auto;
+	border-radius: 8px;
+	padding: 10px;
+}
+
+.MailHeader {
+	margin: none;
+	padding: 5px;
+	padding-left: 10px;
+	font-size: 16pt;
+	font-weight: bold;
+}
+
+.MailString {
+	margin: none;
+	padding: 5px;
+	padding-left: 10px;
+}
